@@ -1,11 +1,9 @@
 # Country-Flag-simpsones
 Hey   
 Just created a random flag with simpsons face in middle   
-mostly a practice but its fun
+mostly a practice but its fun   
 
 
-
----
 
 ## I used:
 HTML   
