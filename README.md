@@ -9,11 +9,11 @@ mostly a practice but its fun
 HTML   
 CSS(interline)   
 and reason is because it was simple   
-and i felt like this doesn't need a separate file CSS
+and i felt like this doesn't need a separate file CSS  
 
 
----
-##(maybe published it . in case i, saving space for link)   
+## also:
+(maybe published it . in case i, saving space for link)   
 overral its good practice to understand how positioning works   
 let me know what you think :
----
+
