@@ -4,7 +4,7 @@ Just created a random flag with simpsons face in middle
 mostly a practice but its fun
 ---
 
-I used:   
+## I used:
 HTML   
 CSS(interline)   
 and reason is because it was simple   
